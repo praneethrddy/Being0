@@ -3,5 +3,6 @@ $(document).ready(function(){
         alert(JSON.stringify(d));
         $("#name").text(d.name);
         $("#collagee").text(d.collage);
+        $(#reg no).text(d.regno);
     })
 })
